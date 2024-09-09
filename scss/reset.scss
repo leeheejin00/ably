@@ -1,0 +1,68 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    color: black;
+}
+
+ul,
+ol,
+li {
+    list-style: none;
+}
+
+img {
+    display: block;
+    width: 100%;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: normal;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+p {
+    font-size: 14px;
+}
+
+strong {
+    display: block;
+}
+
+address{
+    font-style: normal;
+}
+
+header,
+nav,
+main,
+article,
+section,
+aside,
+footer {
+    display: block;
+}
